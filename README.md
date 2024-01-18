@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm ilayda</h1>
 <h3 align="center">Software developer/computer engineering student from Turkey</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ilydglb" alt="ilydglb" /></a> </p>
+*/<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ilydglb" alt="ilydglb" /></a> </p>*/
 
 - 📫 How to reach me **ilaydaglba@gmail.com**
 
