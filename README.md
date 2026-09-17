@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ilayda</h1>
-<h3 align="center">I'm a software developer/computer engineering student</h3>
+<h3 align="center">I'm a software developer/computer engineer</h3>
 
 - 📫 How to reach me **ilaydaglba@gmail.com**
 
